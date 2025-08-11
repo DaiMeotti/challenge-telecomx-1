@@ -1,6 +1,6 @@
 <h1 align="center"> projeto Telecom X </h1>
 
-## 🎁 Telecom X - Challenge ONE | Oracle Next Education 
+##  📶 Telecom X - Challenge ONE | Oracle Next Education 
 
 Este projeto foi desenvolvido como parte do **Challenge do programa ONE - Oracle Next Education**, com o objetivo de aplicar habilidades essenciais de **análise de dados** em um cenário de negócios real. 
 
@@ -8,8 +8,6 @@ Este projeto foi desenvolvido como parte do **Challenge do programa ONE - Oracle
 ## 📌 Descrição do Desafio  
 
 O desafio consiste em **coletar, tratar e analisar os dados**, utilizando **Python** e suas principais bibliotecas para extrair insights valiosos. A partir desta análise, os demais colegas da  equipe de Data Science poderão avançar para modelos preditivos e desenvolver estratégias para reduzir a evasão.
-
-O que será praticado:  
 
 Conteúdo Praticado:
 ✅ Importar e manipular dados de uma API de forma eficiente.
