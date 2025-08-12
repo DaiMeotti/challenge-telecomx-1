@@ -21,7 +21,7 @@ Conteúdo Praticado:
 ✅ Realizar uma Análise Exploratória de Dados (EDA) e gerar um relatório com insights relevantes.
 
 
-# Desafio EM ANDAMENTO!!!
+# Desafio CONCLUÍDO!!!
 
 
 
@@ -31,7 +31,7 @@ Conteúdo Praticado:
 
 ## 🎯 Relatório Final  
 
-Para uma análise completa e os resultados detalhados do projeto, consulte o relatório final, que poderá ser acessado diretamente no arquivo notebook Google Colab, assim que o projeto estiver concluído.
+Para uma análise completa e os resultados detalhados do projeto, consulte o relatório final, que poderá ser acessado diretamente no arquivo notebook Google Colab.
 
 
 ## 👤 Autora  
